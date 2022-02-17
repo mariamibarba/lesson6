@@ -5,40 +5,51 @@
 
 }
 
+
+
 li {
 	list-style: none;
 	display: inline-block;
-	margin-left: 10px;
 	margin-top: 10px;
 	color: #959595;
 	font-size: 18px;
+}	
 
 
+body {background-color: #F7F7F7;
 }
+
+
 .ul-list{
 	list-style: none;
 	display: inline-block;
 	margin-left: 500px;
-	margin-top: 10px;
+	
 	color: #959595;
 	font-size: 18px;
+	
 }
 .container {
 	max-width: 1260px;
 	width: 100%;
 	padding: 50px;
 	margin: 10px auto;
+	
+	
 
 }
 .navbar_list {
 	list-style: none;
 	display: inline-block;
+	padding-right: 50px;
+
 	
 }
 .navbar_list a {
 	color: #FFFFFF;
 	text-decoration: none;
 	font-size: 20px;
+
 
 
 }
@@ -75,4 +86,136 @@ h2 {
 	position: absolute;
 	top: 20px;
 	left: 20px;
+}
+
+.grey-list{
+	padding-right: 90px;
+	padding-top: 64px;
+	color:#959595 ;
+}
+
+
+.text-box {
+	max-width: 655px;
+	display: inline-block;
+	padding-top: 90px;
+	padding-right: 60px;
+	height: 126px;
+
+	
+}
+
+.second-container {
+	max-width: 1260px;
+	width: 100%;
+	padding: 50px;
+	margin: 10px auto;
+	background-color: white;
+	margin-bottom: 30px;
+	
+}
+
+.text{
+	font-size: 18px;
+	line-height: 33px;
+	display: inline-block;
+}
+
+.text-box-small{
+	max-width: 216px;
+	display: inline-block;
+	padding-top: 90px;
+	margin-left: 200px;
+	height: 133px;
+	
+}
+.text-small{
+	font-size: 18px;
+	line-height: 33px;
+	display: inline-block;
+
+}
+
+.list-second{
+	font-size: 12px;
+	line-height: 33px;
+	color: white;
+
+}
+
+.list{
+	font-size: 12px;
+	line-height: 33px;
+	color: #262626;
+	padding-top: 42.1px;
+	padding-right: 46px;
+
+}
+.list-different{
+	font-size: 11px;
+	line-height: 20px;
+	color: #000000
+	
+
+}
+
+.text-content{
+    font-size: 18px;
+	line-height: 33.3px;
+	display: inline-block;
+	height: 93px;
+	padding-top: 69.07px;
+	
+
+}
+
+.blue-text{
+	width: 182px;
+	height: 162px;
+	background-color: #0865DE;
+	font-size: 12px;
+	line-height: 18px;
+	padding-left: 10px;
+	padding-top: 40px;
+	color: #FFFFFF;
+}
+
+.text-box-blue{
+	max-width: 216px;
+	display: inline-block;
+	padding-top: 90px;
+	margin-left: 200px;
+	
+}
+.headline{
+	padding-bottom: 90px;
+}
+
+
+.headline-content{
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+.button{
+	font-size: 11px;
+	line-height: 20px;
+	color: #262626;
+	padding-top: 54px;
+	padding-left: 20px;
+	padding-right: 46px;
+}
+
+.blue-button{
+	font-size: 12px;
+	line-height: 33px;
+	color: #FFFFFF;
+	padding-top: 8px;
+	padding-left: 15px;
+	padding-right: 16px;
+	background-color: blue;
+	padding-right: 7px;
+	
+
+
 }
