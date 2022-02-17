@@ -48,9 +48,12 @@ body {background-color: #F7F7F7;
 	
 }
 .navbar_list a {
-	color: #FFFFFF;
+	color: white;
+
 	text-decoration: none;
 	font-size: 20px;
+	
+	
 
 
 
@@ -58,6 +61,7 @@ body {background-color: #F7F7F7;
 }
 img {
 	width: 60px;
+	
 }
 .main-paragraf{
 	margin-top:30px ;
@@ -91,8 +95,11 @@ h2 {
 .navbar {
 	position: absolute;
 	top: 20px;
-	left: 20px;
+	left: 150px;
 	position: fixed;
+	
+	
+	
 
 
 }
