@@ -74,9 +74,10 @@ h3 {
 }
 h2 {
 	color: #FFFFFF;
-	
 	font-size: 30px;
-	margin-top: 600px;
+	position: absolute;
+	top: -150px;
+	
 	
 }
 .picture{
