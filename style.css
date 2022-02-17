@@ -49,7 +49,6 @@ body {background-color: #F7F7F7;
 }
 .navbar_list a {
 	color: white;
-
 	text-decoration: none;
 	font-size: 20px;
 	
@@ -68,6 +67,8 @@ img {
 	color: #434343;
 	font-size: 25px;
 	line-height: 44px;
+	
+
 }
 h3 {
 	color: #262626;
@@ -75,12 +76,14 @@ h3 {
 	line-height: 48.6px;
 	max-width: 616px;
 	width: 100%;
+	font-family: 'Roboto';
 }
 h2 {
 	color: #FFFFFF;
 	font-size: 30px;
 	position: absolute;
 	top: -150px;
+	font-family: 'Roboto';
 	
 	
 }
@@ -108,6 +111,7 @@ h2 {
 	padding-right: 90px;
 	padding-top: 64px;
 	color:#959595 ;
+
 }
 
 
@@ -135,6 +139,7 @@ h2 {
 	font-size: 18px;
 	line-height: 33px;
 	display: inline-block;
+	
 }
 
 .text-box-small{
@@ -165,6 +170,7 @@ h2 {
 	color: #262626;
 	padding-top: 42.1px;
 	padding-right: 46px;
+	font-family: 'Roboto';
 
 }
 .list-different{
