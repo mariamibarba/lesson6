@@ -24,7 +24,6 @@ body {background-color: #F7F7F7;
 	list-style: none;
 	display: inline-block;
 	margin-left: 500px;
-	
 	color: #959595;
 	font-size: 18px;
 	
@@ -73,10 +72,11 @@ h3 {
 	width: 100%;
 }
 h2 {
-	color: #FFFFFF;
-	
+	color: blue;
 	font-size: 30px;
-	margin-top: 600px;
+	top: -150px;
+	right: 100px;
+	position: absolute;
 	
 }
 .picture{
